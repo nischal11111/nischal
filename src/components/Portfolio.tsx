@@ -25,7 +25,7 @@ const portfolioData = {
     
   ],
   couple: [
-    {id:7, title: "We",image: Image.coupleImage1, category: "💗💗💗💗💗"},
+    // {id:7, title: "We",image: Image.coupleImage1, category: "💗💗💗💗💗"},
     
   ]
 };
