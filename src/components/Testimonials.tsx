@@ -18,7 +18,7 @@ const testimonialsData = [
     id: 2,
     name: "Prasanna Ghimiree ",
     location: "Charali",
-    img:Images.model2,
+    img:Images.model_prasanna,
     avatar: Images.prasanna,
     testimonial:"I'm truly impressed with the portrait! The craftsmanship and precision are outstanding. It looks so lifelike and beautifully done. The artist clearly put a lot of effort into it, and I couldn’t be happier with the result. Definitely worth it—highly recommended!",
     rating: 5

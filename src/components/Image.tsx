@@ -12,6 +12,7 @@ const Image = {
     artistic3:"/images/pic6.jpg",
 
     ajitpic:"/images/pic2.jpg",
+    model_prasanna:"/images/pra1.jpg",
 
     // //about me 
     // mainImg:"image/nischal_main",

@@ -18,7 +18,7 @@ const Hero = () => {
       {/* Content */}
       
       <div className="relative z-20 max-w-5xl mx-auto px-6 text-center">
-        <h3 className="artistic-text">Nischal Bhandari</h3>
+        <h3 className="artistic-text" id='mytxt'>Nischal Bhandari</h3>
         <br/>
         <span className="inline-block px-3 py-1 rounded-full bg-gray-100 text-gray-700 text-sm font-medium mb-6 animate-fade-in">
           Pencil Portrait Artist

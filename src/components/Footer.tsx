@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-serif font-bold mb-4">
-              Sketch<span className={theme === "dark" ? "text-gray-500" : "text-gray-400"}>Studio</span>
+              Nischal<span className={theme === "dark" ? "text-gray-500" : "text-gray-400"}>Creations</span>
             </h3>
             <p className={theme === "dark" ? "text-gray-400 mb-6 max-w-md" : "text-gray-400 mb-6 max-w-md"}>
               Creating timeless pencil portraits that capture the essence of your cherished moments and memories.
@@ -66,7 +66,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm">
-            © {currentYear} SketchStudio. All rights reserved.
+            © {currentYear} Nischal_Creation. All rights reserved.
           </p>
           
           <div className="flex space-x-6 mt-4 md:mt-0">
