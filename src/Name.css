@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+.artistic-text {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: #333;
+    border-right: 4px solid #8e44ad;
+    padding-right: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    animation: typing 4s steps(25) infinite, blink 0.75s step-end infinite;
+  }
+  
+  @keyframes typing {
+    0% {
+      width: 0;
+    }
+    50%{
+        width: 100%;
+        color: #0db2ed;
+    }
+    100% {
+      width: 1%;
+    }
+  }
+  
+  @keyframes erase {
+    0% {
+      width: 100%;
+    }
+   
+    100% {
+      width: 0%;
+    }
+  }
+  
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+  
